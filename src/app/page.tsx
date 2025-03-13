@@ -3,7 +3,6 @@
 import React from "react";
 import BottomNav from "@/components/BottomNav";
 import Image from "next/image";
-import { Sparkles } from "lucide-react";
 import ReviewCard from "@/components/ReviewCard";
 
 const reviews = [
