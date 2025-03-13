@@ -6,6 +6,7 @@ import SearchBar from "@/components/SearchBar";
 const reviews = [
   {
     user: "Micheal W.",
+    userAvatar: "/avatar-michael.svg", // Added avatar
     caption: "Snapped a photo",
     image: "/burger.jpg",
     restaurant: "Fatburger",
@@ -18,6 +19,7 @@ const reviews = [
   },
   {
     user: "Natalie W.",
+    userAvatar: "/avatar-natalie.svg", // Added avatar
     caption: "Snapped a photo",
     image: "/starbucks.jpg",
     restaurant: "Starbucks",
